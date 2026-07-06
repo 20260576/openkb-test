@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "1edd2668b4093cba",
+    "type": "split",
+    "children": [
+      {
+        "id": "a772878a3d9380a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b43685ac716de44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/summaries/6세대.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6세대"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "637f23ed2433e947",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ae1ab46b12655fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dae17219d203d601",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "9639188b7f64bdc0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "bbd19f636c74a2fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "802bdb5443dbf76c",
+    "type": "split",
+    "children": [
+      {
+        "id": "83f7958a38140e38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5d2bb10a33269f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/log.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "log 의 백링크"
+            }
+          },
+          {
+            "id": "313a3625e1f90633",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/log.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "log 의 나가는 링크"
+            }
+          },
+          {
+            "id": "023b3ea5b750f82f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "b4478233204ec33d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "c8e08f13f29aaf0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/log.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "log 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "0b43685ac716de44",
+  "lastOpenFiles": [
+    "wiki/concepts/hybrid-and-performance-models.md",
+    "wiki/concepts/automotive-quality.md",
+    "wiki/concepts/hyundai-sedan-lineup.md",
+    "wiki/concepts/motorsport-marketing.md",
+    "wiki/concepts/autonomous-driving.md",
+    "wiki/concepts/electric-vehicles.md",
+    "wiki/concepts/vehicle-design-philosophy.md",
+    "wiki/concepts/brand-identity.md",
+    "raw/아반떼AD.md",
+    "wiki/summaries/현대 그랜저.md",
+    "wiki/summaries/search.md",
+    "wiki/summaries/7세대.md",
+    "wiki/summaries/6세대.md",
+    "wiki/sources/아반떼AD.md",
+    "wiki/summaries/아반떼AD.md",
+    "wiki/summaries/현대자동차.md",
+    "wiki/log.md",
+    "wiki/index.md",
+    "wiki/summaries/아반떼CN7.md",
+    "wiki/sources/아반떼CN7.md",
+    "wiki/sources/images/아반떼CN7",
+    "raw/아반떼CN7.md",
+    "raws/아반떼CN7.md",
+    "raws",
+    "wiki/sources/현대자동차.md",
+    "wiki/sources/images/아반떼AD",
+    "wiki/AGENTS.md",
+    "wiki/sources/images/현대자동차/img_001.gif",
+    "raw/현대자동차.md"
+  ]
+}
